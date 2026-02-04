@@ -16,11 +16,11 @@
 
 <br/>
 
-I specialize in building high-availability SaaS architectures and securing critical WordPress infrastructure. My code powers businesses, not just browsers.
+Senior Software Architect dedicated to building resilient SaaS platforms and securing critical digital assets. I don't just write code; I engineer solutions that ensure stability, speed, and security for growing businesses.
 
-- 🔭 **Working on:** High-performance SQL engines for WooCommerce.
-- 🛡️ **Specialty:** Security (WAF), Multi-tenant Architectures (Laravel), Linux Automation.
-- 💼 **Open for:** Freelance audits & Full-time Backend roles.
+- 🔭 **Innovation:** Architecting **SpectrusGuard**, an Enterprise AI-Powered WAF.
+- 🛡️ **Specialty:** High-Traffic Optimization, Multi-tenant SaaS (Laravel), and Defensive Security.
+- 🤝 **Partnership:** Open for B2B Consultancy, Security Audits, and Senior Backend Leadership roles.
 
 <br/>
 
@@ -37,8 +37,7 @@ I specialize in building high-availability SaaS architectures and securing criti
 <br/>
 
 ### 📊 GitHub Analytics
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosindriago&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Carlos's Github Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosindriago&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</div>
+
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosindriago&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosindriago&layout=compact&theme=tokyonight&hide_border=true)
