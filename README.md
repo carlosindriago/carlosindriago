@@ -35,7 +35,8 @@ Senior Software Architect dedicated to building resilient SaaS platforms and sec
 </div>
 
 <br/>
-### ⚙️ &nbsp;GitHub Analytics
+
+### ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/carlosindriago">
