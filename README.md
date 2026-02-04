@@ -36,8 +36,8 @@ Senior Software Architect dedicated to building resilient SaaS platforms and sec
 
 <br/>
 
-`` ### 📊 GitHub Analytics
+``### 📊 GitHub Analytics
 
-`` ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosindriago&show_icons=true&theme=tokyonight&hide_border=true)
+``![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosindriago&show_icons=true&theme=tokyonight&hide_border=true)
 
-`` ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosindriago&layout=compact&theme=tokyonight&hide_border=true)
+``![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosindriago&layout=compact&theme=tokyonight&hide_border=true)
