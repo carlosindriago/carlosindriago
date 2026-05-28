@@ -27,6 +27,10 @@ Senior Software Architect dedicated to building resilient SaaS platforms and sec
 ### 🛠️ Tech Stack
 <div align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-Core-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -41,6 +45,6 @@ Senior Software Architect dedicated to building resilient SaaS platforms and sec
 <p align="center">
 <a href="https://github.com/carlosindriago">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlosindriago&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosindriago&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlosindriago&layout=compact&langs_count=8&theme=algelia"/>
 </a>
 </p>
