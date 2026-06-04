@@ -17,7 +17,7 @@
 
 ---
 
-I don't just write code — **I engineer resilient systems**. With over 10 years of experience, I specialize in designing high-availability backend architectures, multi-tenant SaaS platforms, and security-focused infrastructure. From resolving database bottlenecks to implementing *Clean Architecture* in distributed systems, my focus is on building software that solves complex business problems at scale.
+I don't just write code — **I engineer resilient systems**. With over 15 years of experience, I specialize in designing high-availability backend architectures, multi-tenant SaaS platforms, and security-focused infrastructure. From resolving database bottlenecks to implementing *Clean Architecture* in distributed systems, my focus is on building software that solves complex business problems at scale.
 
 ---
 
